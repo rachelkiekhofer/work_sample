@@ -1,0 +1,10 @@
+<main>
+  <iframe 
+    src="https://storymaps.arcgis.com/stories/6ac4a9bf2cde479d81da15c7a2c8a9fb" 
+    width="100%" 
+    height="500" 
+    style="border:0;" 
+    allowfullscreen 
+    allow="geolocation">
+  </iframe>
+</main>
